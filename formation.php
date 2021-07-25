@@ -1,5 +1,5 @@
 <?php
-$title = "Formations";
+$title = "Formation";
 include('parts/header.php'); ?>
 <main>
     <section class="module">
